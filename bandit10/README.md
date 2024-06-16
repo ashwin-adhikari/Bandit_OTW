@@ -9,4 +9,4 @@ After this we search the output to match for ```"===="```.
 We pipe them together to get the required password.
 ![alt text](image-1.png)
 
-password: ```FGUW5ilLVJrxX9kMYMmlN4MgbpfMiqey```
+Password: ```FGUW5ilLVJrxX9kMYMmlN4MgbpfMiqey```
