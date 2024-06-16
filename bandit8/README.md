@@ -3,4 +3,4 @@ The password for the next level is stored in the file data.txt next to the word 
 So if we find the word ```millionth``` we will find the password.
 ![alt text](image.png)
 
-password:dfwvzFQi4mU0wfNbFOe9RoWskMLg7eEc
+Password: ```dfwvzFQi4mU0wfNbFOe9RoWskMLg7eEc```
