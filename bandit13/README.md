@@ -17,4 +17,3 @@ data.txt is hexdump file. To solve the problem we follow following steps:
 - Repeat the process. You will have to decompress the file until you get a file with filetype ```ASCII text```.
 ![alt text](image-2.png)
 
-Password: ```FO5dwFsc0cbaIiH0h8J2eUks2vdTDwAn```

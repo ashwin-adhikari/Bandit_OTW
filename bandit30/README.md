@@ -12,4 +12,3 @@ There is a git repository at ssh://bandit30-git@localhost/home/bandit30-git/repo
 - Read the tag using ```git show``` command
 ![alt text](image-1.png)
 
-Password: ```fb5S2xb7bRyFmAvQYQGEqsbhVyJqhnDy```

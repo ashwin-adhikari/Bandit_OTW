@@ -14,4 +14,3 @@ Clone the repository and find the password for the next level.
 - The password file is created and we can esily obtain password.
 ![alt text](image-2.png)
  
- Password: ```Yz9IpL0sBcCeuG7m9uQFt8ZNpS4HZRcN``` 

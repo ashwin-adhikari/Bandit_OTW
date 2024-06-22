@@ -23,4 +23,3 @@ This is a good exercise including usage of ```more``` command and learning about
 7. Find the password to bandit26 from ```etc/bandit_pass/bandit26```
 ![alt text](image-4.png)
 
-Password: ```s0773xxkk0MXfdqOfPRVr9L3jJBUOgCZ```

@@ -13,4 +13,3 @@ This level introduces **"bruteforcing"**, which is a great concept to crack pass
 - Now for the final step we need to pass the combination of password of bandit24 and combination of each pin to ```localhost on 30002``` to obtain the password.
 ![alt text](image-2.png)
 
-Password: ```iCi86ttT4KSNe1armKiwbQNmB3YJP3q4```

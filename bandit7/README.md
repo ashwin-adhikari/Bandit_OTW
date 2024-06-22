@@ -7,4 +7,4 @@ We use ```find``` command to search for files. As said in the hint the file can 
 What this command does is that, it searches root directory for type ```file``` which is owned by user bandit7 and group is bandit6. ```2> /dev/null``` sends the errors to /dev/null which removes them.
 
 ![alt text](image-1.png)
-We got the password: morbNTDkSW6jIlUc0ymOdMaLnOlFVAaj
+We got the password: ```morbNTDkSW6jIlUc0ymOd************```

@@ -17,4 +17,3 @@ There is a git repository at ```ssh://bandit29-git@localhost/home/bandit29-git/r
 - Now read README.md file to obtain the password
 ![alt text](image-5.png)
 
-Password:```qp30ex3VLz5MDG1n91YowTv4Q8l7CDZL```

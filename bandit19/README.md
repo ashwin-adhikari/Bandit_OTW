@@ -8,4 +8,3 @@ It is an executable file. It runs with the privileges of the file owner. It mean
 We already know that the password to each level is stored in ```/etc/bandit_pass/```. <br>
 ![alt text](image.png)
 
-Password: ```0qXahG8ZjOVMN9Ghs7iOWsCfZyXOUbYO```

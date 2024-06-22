@@ -16,7 +16,7 @@ This is a pretty good exercise showing how cronjobs work. There is a script give
 - Read ```/tmp/thisisbandit24pass.txt```
 ![alt text](image-2.png)
 
-Password: ```gb8KRRCsshuZXI0tUuR6ypOFjiZbf3G8```
+
 
 
 

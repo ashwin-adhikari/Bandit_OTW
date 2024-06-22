@@ -15,4 +15,3 @@ Clone the repository and find the password for the next level.
 ![alt text](image-2.png)
 
 
-Password: ```3O9RfhqyAlVBEZpVb6LYStshZoqoSx5K```

@@ -4,4 +4,4 @@ But first we have to sort the texts.
 
 ![alt text](image.png)
 
-password: ```4CKMh1JI91bUIZZPXDqGanal4xvAg0JM```
+password: ```4CKMh1JI91bUIZZPXD********```

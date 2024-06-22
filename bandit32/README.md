@@ -7,4 +7,3 @@ After all this git stuff, it’s time for another escape. Good luck!
 ![alt text](image.png)
 - You will then be logged onto bandit33
 
-Password:```tQdtbs5D5i2vJwkO8mEyYEyTL8izoeJ0```

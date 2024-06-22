@@ -16,4 +16,3 @@ There is a git repository at ```ssh://bandit28-git@localhost/home/bandit28-git/r
 - Now reading content of README.md we can see the password which was removed in future commit.
 ![alt text](image-3.png)
 
-Password: ```4pT1t5DENaYuqnqvadYs1oE4QLCdjmJ7```

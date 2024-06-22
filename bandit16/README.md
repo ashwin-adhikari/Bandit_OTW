@@ -17,4 +17,3 @@ It provides a read block to encrypt data where we submit our password to current
 It then sends back the password to bandit16.
 ![alt text](image-2.png)
 
-Password: ```kSkvUpMQ7lBYyCM4GBPvCvT1BfWRy0Dx```

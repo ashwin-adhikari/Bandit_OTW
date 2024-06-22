@@ -9,4 +9,3 @@ Using ```tr``` command to translate we obtain the password.
 
 ![alt text](image.png)
 
-Password: ```7x16WNeHIi5YkIhWsfFIqoognUTyj9Q4```

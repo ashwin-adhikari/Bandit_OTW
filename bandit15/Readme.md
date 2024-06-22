@@ -9,4 +9,3 @@ This can be done by using netcat or ```nc``` command. What ```nc ``` does is tha
 ```nc localhost 30000``` this commands listens to port 30000 of local host when provided password of current level it responds with password of next level.
 ![alt text](image-1.png)
 
-Password: ```8xCjnmgoKbGLhHFAZlGE5Tmu4M2tKJQo```

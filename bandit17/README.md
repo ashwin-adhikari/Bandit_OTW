@@ -3,7 +3,7 @@ The credentials for the next level can be retrieved by submitting the password o
 
 **Solution:**<br>
 
-Password of previous level is: ```kSkvUpMQ7lBYyCM4GBPvCvT1BfWRy0Dx```<br>
+Password of previous level is: ```kSkvUpMQ7lBYyC*********```<br>
 
 We use nc command to check for open ports. ```nc``` command takes in input which can be utilized to send in the password of current level. But we will not do that we will just scan ports without sending data.
 ![alt text](image.png)

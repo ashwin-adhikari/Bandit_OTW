@@ -8,4 +8,3 @@ So, we use ```base64 -d ``` command for decoding.
 
 ![alt text](image.png)
 
-Password: ```dtR173fZKb0RRsDFSGsg2RWnpNVj3qRr```

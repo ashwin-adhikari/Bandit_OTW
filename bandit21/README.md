@@ -11,4 +11,3 @@ There is also a script file ```cronjob_bandit22.sh``` mentioned which contains f
 This is a running task a temporary file is created where the password of bandit22 is sent. If we read content of ```/tmp/t7O6lds9S0RqQh9aMcz6ShpAoZKF7fgv``` we will get the password.
 ![alt text](image-2.png)
 
-Password: ```tRae0UfB9v0UzbCdn9cY0gQnds9GF58Q```

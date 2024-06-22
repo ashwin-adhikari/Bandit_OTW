@@ -16,4 +16,4 @@ Now we should run the script. This produces the password of level22.<br>
 From script we can take hint that the password is saved in a /tmp dir which is md5 sum of bandit23 user.
 ![alt text](image-2.png)
 
-Password: ```0Zf11ioIjMVN551jX3CmStKLYqjk54Ga```
+
