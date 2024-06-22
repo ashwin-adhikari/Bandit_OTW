@@ -13,3 +13,5 @@ Clone the repository and find the password for the next level.
 ```ssh://bandit27-git@localhost:2220/home/bandit27-git/repo```: The URL of the Git repository. It specifies the SSH protocol (ssh://), the username (bandit27-git), the host (localhost), the port (2220), and the path to the repository (/home/bandit27-git/repo).
 - The password file is created and we can esily obtain password.
 ![alt text](image-2.png)
+ 
+ Password: ```Yz9IpL0sBcCeuG7m9uQFt8ZNpS4HZRcN``` 
